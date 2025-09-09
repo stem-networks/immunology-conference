@@ -54,7 +54,7 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "<b>Help Drive Vaccine Discoveries – Volunteer for VVIC-2026!</b><br/>\nVolunteer at the Virology Conference and play an active role in advancing vaccine. Help us by facilitating discussions, network with professionals, and support global health progress. Apply today and make a lasting impact!",
+            "content": "<b>Help Drive Vaccine Discoveries – Volunteer for VVIC-2026!</b><br/>\nVolunteer at the Immunology Conference and play an active role in advancing vaccine. Help us by facilitating discussions, network with professionals, and support global health progress. Apply today and make a lasting impact!",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
@@ -64,7 +64,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Engage in the Virology Conference where the world's leading experts in vaccine technology and global researchers meet to discuss and generate ideas that advance the success of immunization.",
+            "content": "Engage in the Immunology Conference where the world's leading experts in vaccine technology and global researchers meet to discuss and generate ideas that advance the success of immunization.",
             "headding": "Footer content"
         }
     },
@@ -73,11 +73,11 @@
             "banner_conent_id": "4",
             "image": "images/banner.jpg",
             "headding": "Current Challenges and Future Directions in Vaccine\nDevelopment",
-            "tag_line": "Virology-VVIC September 22-23, 2026 in Berlin, Germany",
-            "content": "Discover the latest vaccine research and global health advancements at the Virology Conference. This summit provides a comprehensive platform for vaccine technologies and discusses strategies to enhance immunization impact worldwide. Secure your event brochure today.",
+            "tag_line": "Immunology-VVIC September 22-23, 2026 in Berlin, Germany",
+            "content": "Discover the latest vaccine research and global health advancements at the Immunology Conference. This summit provides a comprehensive platform for vaccine technologies and discusses strategies to enhance immunization impact worldwide. Secure your event brochure today.",
             "page": "index",
             "status": "1",
-            "cid": "10040"
+            "cid": "10041"
         }
     },
     "sessions": [

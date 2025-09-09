@@ -1,8 +1,8 @@
 {
   "data": {
-    "cid": "10040",
-    "site_url": "https://virology-conference.com",
-    "clname": "Virology Conference",
+    "cid": "10041",
+    "site_url": "https://immunology-conference.com",
+    "clname": "Immunology Conference",
     "csname": "VVIC",
     "clogotext": "VVIC-2026",
     "sdate": "22",
@@ -16,15 +16,15 @@
     "v1": "Berlin",
     "v2": "Germany",
     "venue_p2": "",
-    "cemail": "virology.vvic@stemnetwork.net",
+    "cemail": "immunology.vvic@stemnetwork.net",
     "phone": "+1 (872) 2138-777",
     "whatsapp": "+41 77 414 46 91",
     "full_length_dates": "September 22-23, 2026",
     "full_length_venue": "Hybrid Event ",
     "startDate": "2026-09-22",
     "endDate": "2026-09-23",
-    "main_keyword": "Virology",
-    "confkeyword": "Virology"
+    "main_keyword": "Immunology",
+    "confkeyword": "Immunology"
   },
   "status": "200",
   "pages": {
@@ -32,7 +32,7 @@
       {
         "title": "Vaccines Virology Immunology Conference 2026 | VVIC | September 22-23, Berlin, Germany",
         "content": "Join VVIC 2026 – a premier global conference on Vaccines, Virology, and Immunology happening September 22-23 in Berlin, Germany. Explore groundbreaking research, expert talks, and global networking opportunities.",
-        "meta_keywords": "VVIC 2026, Vaccines Conference, Virology Conference, Immunology Conference, Berlin, Germany Scientific Meetings, Immunotherapy, Viral Research, Vaccine Development"
+        "meta_keywords": "VVIC 2026, Vaccines Conference, Immunology Conference, Immunology Conference, Berlin, Germany Scientific Meetings, Immunotherapy, Viral Research, Vaccine Development"
       }
     ],
     "sessions_meta": [
@@ -60,7 +60,7 @@
       {
         "title": "Speakers | VVIC 2026 – Meet Global Experts in Vaccines, Virology & Immunology",
         "content": "Discover the distinguished speakers of VVIC 2026 – featuring global leaders in vaccines, virology, and immunology. Join us in Berlin, Germany on September 22-23 to hear groundbreaking insights from renowned researchers and healthcare pioneers.",
-        "meta_keywords": "VVIC 2026 Speakers, Vaccine Experts, Virology Speakers, Immunology Keynotes, Global Vaccine Researchers, Scientific Sessions, Immunotherapy Experts, Virology Conference Berlin, Germany, Vaccine Development Leaders"
+        "meta_keywords": "VVIC 2026 Speakers, Vaccine Experts, Virology Speakers, Immunology Keynotes, Global Vaccine Researchers, Scientific Sessions, Immunotherapy Experts, Immunology Conference Berlin, Germany, Vaccine Development Leaders"
       }
     ],
     "down_brochure": [
@@ -115,7 +115,7 @@
     "register_details": [
       {
         "title": "Registration Fees & Categories | VVIC 2026",
-        "content": "Explore registration categories, pricing, early-bird deadlines, and payment options for VVIC 2026. Plan your participation in this landmark immunology and virology conference.",
+        "content": "Explore registration categories, pricing, early-bird deadlines, and payment options for VVIC 2026. Plan your participation in this landmark immunology and Immunology Conference.",
         "meta_keywords": "VVIC Fees, Registration Types, Early Bird Discount, Group Registration, Delegate Rates, Conference Prices"
       }
     ],
@@ -130,14 +130,14 @@
       {
         "title": "Venue | VVIC 2026 – Vaccines, Virology, Immunology",
         "content": "Join VVIC 2026 in the heart of Berlin, Germany and experience a world-class venue for the Vaccines, Virology, and Immunology Conference. Find detailed travel information, accommodation options, and local attractions to plan your visit with ease.",
-        "meta_keywords": "VVIC 2026 venue, Berlin, Germany conference location, Vaccines conference venue, Virology conference Berlin, Germany, Immunology conference venue, scientific meetings in Berlin, Germany, VVIC 2026 travel info, conference accommodation Berlin, Germany, Berlin, Germany event location, vaccines virology immunology 2026"
+        "meta_keywords": "VVIC 2026 venue, Berlin, Germany conference location, Vaccines conference venue, Immunology Conference Berlin, Germany, Immunology conference venue, scientific meetings in Berlin, Germany, VVIC 2026 travel info, conference accommodation Berlin, Germany, Berlin, Germany event location, vaccines virology immunology 2026"
       }
     ],
     "previous_conference": [
       {
         "title": "Previous Conference | VVIC 2026 – Vaccines, Virology & Immunology",
         "content": "Explore the highlights from our previous Vaccines, Virology & Immunology Conferences. Discover groundbreaking research, keynote sessions, and scientific networking that shaped VVIC’s journey towards 2026 in Berlin, Germany.",
-        "meta_keywords": "Previous Vaccines Conference, Virology Past Events, Immunology Research Highlights, Vaccine Development History, VVIC Previous Editions, Global Immunology Meetings, Virology Conference Archives, Past Vaccine Innovation Summits, Immunology and Virology Research Events"
+        "meta_keywords": "Previous Vaccines Conference, Virology Past Events, Immunology Research Highlights, Vaccine Development History, VVIC Previous Editions, Global Immunology Meetings, Immunology Conference Archives, Past Vaccine Innovation Summits, Immunology and Virology Research Events"
       }
     ]
   },
@@ -166,15 +166,15 @@
   "social_links": {
     "facebook": {
       "link": "https://www.facebook.com/profile.php?id=61563649766977",
-      "title": "Virology Conference 2026 facebook"
+      "title": "Immunology Conference 2026 facebook"
     },
     "linkedin": {
       "link": "https://linkedin.com/company/stem-network-com",
-      "title": "Virology Conference 2026 linkedin"
+      "title": "Immunology Conference 2026 linkedin"
     },
     "instagram": {
       "link": "https://www.instagram.com/stemnetwork_com",
-      "title": "Virology Conference 2026 instagram"
+      "title": "Immunology Conference 2026 instagram"
     }
   }
 }
